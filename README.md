@@ -1,0 +1,2 @@
+# stoppingPower
+stoppingPower
